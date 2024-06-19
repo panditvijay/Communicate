@@ -1,6 +1,6 @@
-# Communicate Application
+# Communicate Application(WIP)
 
-Communicate is a messaging application that allows users to connect and communicate with others in real-time, similar to popular messaging apps like WhatsApp. Users can send text messages, multimedia messages, make voice and video calls, and create group chats with people they are connected to.
+Communicate is a messaging application that allows users to connect and communicate with others in real-time, similar to popular messaging apps like WhatsApp. Users can send text messages, multimedia messages, and make video calls, and create group chats with people they are connected to.
 
 ## Features
 
